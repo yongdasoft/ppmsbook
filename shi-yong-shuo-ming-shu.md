@@ -1,4 +1,309 @@
-## 
+
+
+&lt;!--  
+ /\* Font Definitions \*/  
+ @font-face  
+	{font-family:宋体;  
+	panose-1:2 1 6 0 3 1 1 1 1 1;  
+	mso-font-alt:SimSun;  
+	mso-font-charset:134;  
+	mso-generic-font-family:auto;  
+	mso-font-pitch:variable;  
+	mso-font-signature:3 680460288 22 0 262145 0;}  
+@font-face  
+	{font-family:"Cambria Math";  
+	panose-1:2 4 5 3 5 4 6 3 2 4;  
+	mso-font-charset:1;  
+	mso-generic-font-family:roman;  
+	mso-font-format:other;  
+	mso-font-pitch:variable;  
+	mso-font-signature:0 0 0 0 0 0;}  
+@font-face  
+	{font-family:Cambria;  
+	panose-1:2 4 5 3 5 4 6 3 2 4;  
+	mso-font-charset:0;  
+	mso-generic-font-family:roman;  
+	mso-font-pitch:variable;  
+	mso-font-signature:-1610611985 1073741899 0 0 159 0;}  
+@font-face  
+	{font-family:Calibri;  
+	panose-1:2 15 5 2 2 2 4 3 2 4;  
+	mso-font-charset:0;  
+	mso-generic-font-family:swiss;  
+	mso-font-pitch:variable;  
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}  
+@font-face  
+	{font-family:"\@宋体";  
+	panose-1:2 1 6 0 3 1 1 1 1 1;  
+	mso-font-charset:134;  
+	mso-generic-font-family:auto;  
+	mso-font-pitch:variable;  
+	mso-font-signature:3 680460288 22 0 262145 0;}  
+ /\* Style Definitions \*/  
+ p.MsoNormal, li.MsoNormal, div.MsoNormal  
+	{mso-style-unhide:no;  
+	mso-style-qformat:yes;  
+	mso-style-parent:"";  
+	margin:0cm;  
+	margin-bottom:.0001pt;  
+	text-align:justify;  
+	text-justify:inter-ideograph;  
+	mso-pagination:none;  
+	font-size:10.5pt;  
+	mso-bidi-font-size:11.0pt;  
+	font-family:"Calibri","sans-serif";  
+	mso-ascii-font-family:Calibri;  
+	mso-ascii-theme-font:minor-latin;  
+	mso-fareast-font-family:宋体;  
+	mso-fareast-theme-font:minor-fareast;  
+	mso-hansi-font-family:Calibri;  
+	mso-hansi-theme-font:minor-latin;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:minor-bidi;  
+	mso-font-kerning:1.0pt;}  
+h1  
+	{mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-qformat:yes;  
+	mso-style-link:"标题 1 Char";  
+	mso-style-next:正文;  
+	margin-top:17.0pt;  
+	margin-right:0cm;  
+	margin-bottom:16.5pt;  
+	margin-left:0cm;  
+	text-align:justify;  
+	text-justify:inter-ideograph;  
+	line-height:240%;  
+	mso-pagination:lines-together;  
+	page-break-after:avoid;  
+	mso-outline-level:1;  
+	font-size:22.0pt;  
+	font-family:"Calibri","sans-serif";  
+	mso-ascii-font-family:Calibri;  
+	mso-ascii-theme-font:minor-latin;  
+	mso-hansi-font-family:Calibri;  
+	mso-hansi-theme-font:minor-latin;  
+	mso-font-kerning:22.0pt;}  
+h2  
+	{mso-style-priority:9;  
+	mso-style-qformat:yes;  
+	mso-style-link:"标题 2 Char";  
+	mso-style-next:正文;  
+	margin-top:13.0pt;  
+	margin-right:0cm;  
+	margin-bottom:13.0pt;  
+	margin-left:0cm;  
+	text-align:justify;  
+	text-justify:inter-ideograph;  
+	line-height:173%;  
+	mso-pagination:lines-together;  
+	page-break-after:avoid;  
+	mso-outline-level:2;  
+	font-size:16.0pt;  
+	font-family:"Cambria","serif";  
+	mso-ascii-font-family:Cambria;  
+	mso-ascii-theme-font:major-latin;  
+	mso-fareast-font-family:宋体;  
+	mso-fareast-theme-font:major-fareast;  
+	mso-hansi-font-family:Cambria;  
+	mso-hansi-theme-font:major-latin;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:major-bidi;  
+	mso-font-kerning:1.0pt;}  
+span.1Char  
+	{mso-style-name:"标题 1 Char";  
+	mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-locked:yes;  
+	mso-style-link:"标题 1";  
+	mso-ansi-font-size:22.0pt;  
+	mso-bidi-font-size:22.0pt;  
+	mso-font-kerning:22.0pt;  
+	font-weight:bold;}  
+span.2Char  
+	{mso-style-name:"标题 2 Char";  
+	mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-locked:yes;  
+	mso-style-link:"标题 2";  
+	mso-ansi-font-size:16.0pt;  
+	mso-bidi-font-size:16.0pt;  
+	font-family:"Cambria","serif";  
+	mso-ascii-font-family:Cambria;  
+	mso-ascii-theme-font:major-latin;  
+	mso-fareast-font-family:宋体;  
+	mso-fareast-theme-font:major-fareast;  
+	mso-hansi-font-family:Cambria;  
+	mso-hansi-theme-font:major-latin;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:major-bidi;  
+	font-weight:bold;}  
+.MsoChpDefault  
+	{mso-style-type:export-only;  
+	mso-default-props:yes;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:minor-bidi;}  
+ /\* Page Definitions \*/  
+ @page  
+	{mso-page-border-surround-header:no;  
+	mso-page-border-surround-footer:no;}  
+@page Section1  
+	{size:595.3pt 841.9pt;  
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
+	mso-header-margin:42.55pt;  
+	mso-footer-margin:49.6pt;  
+	mso-paper-source:0;  
+	layout-grid:15.6pt;}  
+div.Section1  
+	{page:Section1;}  
+--&gt;  
+
+
+# 使用说明
+
+## 一、控制面板模块
+
+1、我的工作台
+
+显示三块内容：我的编制、我的审批、我的复核
+
+我的编制中显示所有分配给我做的项目和我需要编制的专业；我的审批罗列了所有需要我审批的项目，包括项目中实施方案的审批、签发审批、过程文件审批等；我的复核只显示需要我二审或三审的项目；
+
+2、审批
+
+由于审批比较重要，所以在控制面板中有单独审批的模块，方便快速定位到要审批的项目；
+
+3、合同管理
+
+1）、针对项目的合同单独管理，方便以后的合同查档；
+
+2）、新建合同；
+
+4、项目台账
+
+1）、显示所有项目，按项目完成度和时间分类，分为未完成项目/已完成项目、两天内到期项目和全部项目，在台账中可以按照时间查询，也可以按照项目名称查询；
+
+2）、登记项目；
+
+5、知识库
+
+文档模板库，由于不同地区对文档要求不同，在做项目中可以直接套取这些模板，提高准备资料的工作效率；
+
+6、综合管理
+
+1）、项目归档
+
+将系统中的项目与现实中的项目资料整合起来，记录线下文件的存储位置，方便在线下查找源文件。
+
+2）、财务管理
+
+7、系统设置
+
+对项目中一些参数的设置和人员管理，根据公司业务需要来设置。
+
+8、个人设置
+
+修改密码或者查看登陆日志。
+
+## 二、设置
+
+1、如果公司没有使用钉钉办公，下载企业版钉钉，按照钉钉企业版的流程注册企业，录入员工数据，下载通讯录模板，填写电话和姓名，上传提交即可批量录入员工；
+
+（https://www.dingtalk.com/?lwfrom=20161014094102690）
+
+2、实施人员部署好服务器以后，会提供一个网址，网址就是项目管理系统的入口；
+
+3、子管理员打开浏览器（IE10以上，360浏览器切换到急速模式），账户名为登录钉钉的手机号码，密码为号码后六位。登录以后可以选择修改密码，如果不修改密码，使用默认密码登录即可；（忘记密码也在这里操作）
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)
+
+4、在左边选择栏选择系统设置-部门人员管理，右上角选择同步钉钉数据，此时公司的员工已经同步到系统中了；
+
+eg：
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)
+
+5、在该界面的下面设置操作权限：合同登记权限、项目立项权限、收款管理权限，每个权限都可添加多个人，只需要单击框以后下拉选择或搜索即可；
+
+eg：
+
+6、6![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg)
+
+6、公司人员同步过来以后，由于业务需要，在系统设置-人员资质中可以对人员资质进行管理，在这里添加人员资格证书并上传资格证书扫描件。
+
+7、设置了人员以后，需要设置系统的一些参数，主要是以下的内容
+
+专业和自排查项显示名称，报告号显示代码
+
+1）、专业
+
+根据公司业务需求，添加相关专业：土建、安装、市政、园林等
+
+2）、过程文件分类
+
+根据公司业务需求，添加相关的过程文件类别，如开工报告、计算底稿等
+
+3）、自排查项
+
+根据咨询类型的不同，自排查项也会有差别，根据公司业务需求自行添加相关的项目类别；
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg)
+
+4）、报告号前缀
+
+根据公司业务要求，录入报告号要求的前缀；
+
+5）加入公司钉钉团队的二维码
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image010.jpg)
+
+在钉钉的通讯录-团队邀请处下载的二维码以后，上传文件，在登录系统时，选择加入团队，就可以有二维码显示了，扫码以后申请加入团队，通过即可，如下：
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image012.jpg)
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image014.jpg)
+
+# 三、流程
+
+1、立项
+
+如果项目在立项时已经有合同了，可以先进行合同的登记，合同登记完成以后，可以选择直接以此合同立项，在合同中添加的相关信息会同步到新建的项目中。
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image016.jpg)
+
+如果在立项时没有合同，可以在项目台账中新建项目，填好相关的数据保存提交即可（带\*的为必填项，不填就无法保存提交），如果后期立项的资料或信息要修改，需要填写修改内容才可更改。确认信息无误以后，选择完成登记，此时项目登记成功，流程到接收资料阶段。
+
+2、接收资料
+
+如果已经有现成的模板可以套用，直接选择该模板，按照模板中要求的子项上传相关资料；
+
+如果没有现成的模板可以套用，可以新建空白-增加项-新建模板：
+
+增加项：增加子项，需要接受的资料清单项；
+
+另存模板：确认资料清单项已经完整以后，选择另存模板，输入模板名称以后保存，以后的相关项目时可以借用此模板即可。
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image018.jpg)
+
+3、实施方案
+
+1-如果之前有类似项目，这个项目也可以交给那些人去完成的话，可以在下方点击具体项目，如果在没有列出的项目中，可以选择历史项目，查看之前所有的项目并选择即可，选择了之前的项目，则实施方案中的方案会直接拷贝过来，如果需要调整，；
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image020.jpg)
+
+如果方案的分配还需要微调，选择以后修改即可，灵活操作。
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image022.jpg)
+
+2-如果之前没有类似项目，则需要新建空白，填写相关的编制人员及审核人员。
+
+
+
+
+
+
+
+
 
 
 
