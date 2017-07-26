@@ -112,7 +112,7 @@ eg：
 
 如果项目在立项时已经有合同了，可以先进行合同的登记，合同登记完成以后，可以选择直接以此合同立项，在合同中添加的相关信息会同步到新建的项目中。
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image016.jpg)
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image016.jpg)![](/assets/20.png)
 
 如果在立项时没有合同，可以在项目台账中新建项目，填好相关的数据保存提交即可（带\*的为必填项，不填就无法保存提交），如果后期立项的资料或信息要修改，需要填写修改内容才可更改。确认信息无误以后，选择完成登记，此时项目登记成功，流程到接收资料阶段。
 
@@ -126,17 +126,17 @@ eg：
 
 另存模板：确认资料清单项已经完整以后，选择另存模板，输入模板名称以后保存，以后的相关项目时可以借用此模板即可。
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image018.jpg)
+![](/assets/21.png)![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image018.jpg)
 
 3、实施方案
 
 1-如果之前有类似项目，这个项目也可以交给那些人去完成的话，可以在下方点击具体项目，如果在没有列出的项目中，可以选择历史项目，查看之前所有的项目并选择即可，选择了之前的项目，则实施方案中的方案会直接拷贝过来，如果需要调整，；
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image020.jpg)
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image020.jpg)![](/assets/22.png)
 
 如果方案的分配还需要微调，选择以后修改即可，灵活操作。
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image022.jpg)
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image022.jpg)![](/assets/23.png)
 
 2-如果之前没有类似项目，则需要新建空白，填写相关的编制人员及审核人员。
 
