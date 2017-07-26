@@ -54,21 +54,23 @@
 
 3、子管理员打开浏览器（IE10以上，360浏览器切换到急速模式），账户名为登录钉钉的手机号码，密码为号码后六位。登录以后可以选择修改密码，如果不修改密码，使用默认密码登录即可；（忘记密码也在这里操作）
 
-
+![](/assets/13.png)
 
 4、在左边选择栏选择系统设置-部门人员管理，右上角选择同步钉钉数据，此时公司的员工已经同步到系统中了；
 
 eg：
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)
+![](/assets/14.png)![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)
 
 5、在该界面的下面设置操作权限：合同登记权限、项目立项权限、收款管理权限，每个权限都可添加多个人，只需要单击框以后下拉选择或搜索即可；
 
 eg：
 
-6、6![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg)
+![](/assets/15.png)
 
 6、公司人员同步过来以后，由于业务需要，在系统设置-人员资质中可以对人员资质进行管理，在这里添加人员资格证书并上传资格证书扫描件。
+
+（缺少图片）
 
 7、设置了人员以后，需要设置系统的一些参数，主要是以下的内容
 
@@ -86,7 +88,7 @@ eg：
 
 根据咨询类型的不同，自排查项也会有差别，根据公司业务需求自行添加相关的项目类别；
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg)
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg)![](/assets/16.png)
 
 4）、报告号前缀
 
@@ -94,11 +96,13 @@ eg：
 
 5）加入公司钉钉团队的二维码
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image010.jpg)
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image010.jpg)![](/assets/17.png)
 
 在钉钉的通讯录-团队邀请处下载的二维码以后，上传文件，在登录系统时，选择加入团队，就可以有二维码显示了，扫码以后申请加入团队，通过即可，如下：
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image012.jpg)
+![](/assets/18.png)
+
+![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image012.jpg)![](/assets/19.png)
 
 ![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image014.jpg)
 
