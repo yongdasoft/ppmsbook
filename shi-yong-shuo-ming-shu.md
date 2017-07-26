@@ -1,164 +1,3 @@
-
-
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:宋体;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:SimSun;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
-@font-face  
-	{font-family:"Cambria Math";  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:1;  
-	mso-generic-font-family:roman;  
-	mso-font-format:other;  
-	mso-font-pitch:variable;  
-	mso-font-signature:0 0 0 0 0 0;}  
-@font-face  
-	{font-family:Cambria;  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610611985 1073741899 0 0 159 0;}  
-@font-face  
-	{font-family:Calibri;  
-	panose-1:2 15 5 2 2 2 4 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610611985 1073750139 0 0 159 0;}  
-@font-face  
-	{font-family:"\@宋体";  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:11.0pt;  
-	font-family:"Calibri","sans-serif";  
-	mso-ascii-font-family:Calibri;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:宋体;  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:Calibri;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-font-kerning:1.0pt;}  
-h1  
-	{mso-style-priority:9;  
-	mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-link:"标题 1 Char";  
-	mso-style-next:正文;  
-	margin-top:17.0pt;  
-	margin-right:0cm;  
-	margin-bottom:16.5pt;  
-	margin-left:0cm;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	line-height:240%;  
-	mso-pagination:lines-together;  
-	page-break-after:avoid;  
-	mso-outline-level:1;  
-	font-size:22.0pt;  
-	font-family:"Calibri","sans-serif";  
-	mso-ascii-font-family:Calibri;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-hansi-font-family:Calibri;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-font-kerning:22.0pt;}  
-h2  
-	{mso-style-priority:9;  
-	mso-style-qformat:yes;  
-	mso-style-link:"标题 2 Char";  
-	mso-style-next:正文;  
-	margin-top:13.0pt;  
-	margin-right:0cm;  
-	margin-bottom:13.0pt;  
-	margin-left:0cm;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	line-height:173%;  
-	mso-pagination:lines-together;  
-	page-break-after:avoid;  
-	mso-outline-level:2;  
-	font-size:16.0pt;  
-	font-family:"Cambria","serif";  
-	mso-ascii-font-family:Cambria;  
-	mso-ascii-theme-font:major-latin;  
-	mso-fareast-font-family:宋体;  
-	mso-fareast-theme-font:major-fareast;  
-	mso-hansi-font-family:Cambria;  
-	mso-hansi-theme-font:major-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:major-bidi;  
-	mso-font-kerning:1.0pt;}  
-span.1Char  
-	{mso-style-name:"标题 1 Char";  
-	mso-style-priority:9;  
-	mso-style-unhide:no;  
-	mso-style-locked:yes;  
-	mso-style-link:"标题 1";  
-	mso-ansi-font-size:22.0pt;  
-	mso-bidi-font-size:22.0pt;  
-	mso-font-kerning:22.0pt;  
-	font-weight:bold;}  
-span.2Char  
-	{mso-style-name:"标题 2 Char";  
-	mso-style-priority:9;  
-	mso-style-unhide:no;  
-	mso-style-locked:yes;  
-	mso-style-link:"标题 2";  
-	mso-ansi-font-size:16.0pt;  
-	mso-bidi-font-size:16.0pt;  
-	font-family:"Cambria","serif";  
-	mso-ascii-font-family:Cambria;  
-	mso-ascii-theme-font:major-latin;  
-	mso-fareast-font-family:宋体;  
-	mso-fareast-theme-font:major-fareast;  
-	mso-hansi-font-family:Cambria;  
-	mso-hansi-theme-font:major-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:major-bidi;  
-	font-weight:bold;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page Section1  
-	{size:595.3pt 841.9pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:42.55pt;  
-	mso-footer-margin:49.6pt;  
-	mso-paper-source:0;  
-	layout-grid:15.6pt;}  
-div.Section1  
-	{page:Section1;}  
---&gt;  
-
-
 # 使用说明
 
 ## 一、控制面板模块
@@ -209,7 +48,7 @@ div.Section1
 
 1、如果公司没有使用钉钉办公，下载企业版钉钉，按照钉钉企业版的流程注册企业，录入员工数据，下载通讯录模板，填写电话和姓名，上传提交即可批量录入员工；
 
-（https://www.dingtalk.com/?lwfrom=20161014094102690）
+（[https://www.dingtalk.com/?lwfrom=20161014094102690）](https://www.dingtalk.com/?lwfrom=20161014094102690）)
 
 2、实施人员部署好服务器以后，会提供一个网址，网址就是项目管理系统的入口；
 
@@ -296,14 +135,4 @@ eg：
 ![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\msohtmlclip1\01\clip_image022.jpg)
 
 2-如果之前没有类似项目，则需要新建空白，填写相关的编制人员及审核人员。
-
-
-
-
-
-
-
-
-
-
 
